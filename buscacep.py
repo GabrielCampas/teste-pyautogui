@@ -1,6 +1,8 @@
 import pyautogui
 import time
 
+# NOTA: Esse script só funcionará em uma máquina, pois os clicks já estão predefinidos.
+
 # Abrindo o Chrome
 pyautogui.press("win")
 pyautogui.write("chrome")
